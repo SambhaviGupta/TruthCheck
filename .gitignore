@@ -1,0 +1,5 @@
+truthcheck_model/
+baseline_model/
+__pycache__/
+*.pyc
+.env
